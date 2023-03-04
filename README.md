@@ -1,6 +1,6 @@
 # 🔗 Ketmanto Wangsa's Page
 This page is created using [LittleLink](https://github.com/sethcottle/littlelink).
-Feel free to connect with me and have a look at my academic publications on Linkedin. 
+Feel free to connect with me and have a look at my profile.
 
 I include dark/light mode here.
 
