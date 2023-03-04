@@ -14,6 +14,6 @@ For social media, I only include:
 
 LittleLink is a lightweight DIY alternative to services like [Linktree](https://linktr.ee)
 and [many.link](https://many.link/). LittleLink was built using [Skeleton](http://getskeleton.com/), a dead simple, responsive boilerplate. 
-I made some changes on it so some additional codes would be stripped.  😊
+I made some changes so some additional codes would be stripped.  😊
 
 
